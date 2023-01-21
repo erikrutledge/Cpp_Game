@@ -29,6 +29,10 @@ Terminal Greed          (root folder)
   +-- greedgame.cpp     (C++ code file)
   +-- greedgame.exe     (executable game file)
 ```
+
+## Video Walkthrough
+https://youtu.be/iVJHJiF7BaI
+
 ## Development Environment
 ---
 The project was written in C++ using the C/C++ Extension for VS Code.
